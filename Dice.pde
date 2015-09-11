@@ -20,7 +20,6 @@ void draw()
 	  }
     }
     fill(255);
-    stroke(255);
     text("Total rolls: "+dice.total,50,10);
 }
 void mousePressed()
